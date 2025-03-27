@@ -1,8 +1,8 @@
 var rule = {
     title:'Missav',
     host:'https://missav.ai',
-	searchUrl:'/cn/search/**',
-    url:'/cn/fyclass?page=fypage',
+	searchUrl:'/dm217/**',
+    url:'/fyclass?page=fypage',
     headers:{
         'User-Agent':'MOBILE_UA'
     },
@@ -19,4 +19,3 @@ var rule = {
     quickSearch:1,//是否启用快速搜索,
     filterable:0,//是否启用分类筛选,
 }
-

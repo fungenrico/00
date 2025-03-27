@@ -1,8 +1,8 @@
 var rule = {
     title:'Missav',
-    host:'https://missav.com',
-	searchUrl:'/cn/search/**',
-    url:'/cn/fyclass?page=fypage',
+    host:'https://missav.ai',
+	searchUrl:'/dm45/search/**',
+    url:'/dm45/fyclass?page=fypage',
     headers:{
         'User-Agent':'MOBILE_UA'
     },
